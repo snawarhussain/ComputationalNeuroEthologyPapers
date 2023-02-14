@@ -1,0 +1,20 @@
+Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning
+2019
+https://www.nature.com/articles/s41551-019-0396-1
+https://github.com/fdechaumont/lmt-analysis
+Nature Biomedical Engineering
+Chaumont19.png
+none
+          mouse,behavior,real-time,
+          20230214
+Fabrice de Chaumont
+Elodie Ey
+Nicolas Torquet
+Thibault Lagache
+Stéphane Dallongeville
+Albane Imbert
+Thierry Legou
+Anne-Marie Le Sourd
+Philippe Faure
+Thomas Bourgeron
+Jean-Christophe Olivo-Marin
