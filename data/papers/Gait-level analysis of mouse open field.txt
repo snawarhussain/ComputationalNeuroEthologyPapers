@@ -1,0 +1,18 @@
+Stride-level analysis of mouse open field behavior using deep-learning-based pose estimation
+2022
+https://www.cell.com/action/showPdf?pii=S2211-1247%2821%2901740-X
+https://www.kumarlab.org/2021/11/05/dataset-for-stride-level-analysis-of-mouse-open-field-behavior-using-deep-learning-based-pose-estimation/
+Cell Reports
+Sheppard2022.jpg
+none
+          mouse,gait analysis,2d
+          20230216
+Keith Sheppard
+Justin Gardin
+Gautam Sabnis
+Asaf Peer
+Megan Darrell
+Sean Deats
+Brian Geuther
+Cathleen M. Lutz
+Vivek Kumar

@@ -12,6 +12,24 @@ So whether you are looking to keep up with the latest research, or simply lookin
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://www.kumarlab.org/2021/11/05/dataset-for-stride-level-analysis-of-mouse-open-field-behavior-using-deep-learning-based-pose-estimation/"><img src="teasers/Sheppard2022.jpg"/></a></td>
+<td align="left" width=550><em>Stride-level analysis of mouse open field behavior using deep-learning-based pose estimation</em><br>
+<font size=2.5>Keith Sheppard</font>, 
+<font size=2.5>Justin Gardin</font>, 
+<font size=2.5>Gautam Sabnis</font>, 
+<font size=2.5>Asaf Peer</font>, 
+<font size=2.5>Megan Darrell</font>, 
+<font size=2.5>Sean Deats</font>, 
+<font size=2.5>Brian Geuther</font>, 
+<font size=2.5>Cathleen M. Lutz</font>, 
+<font size=2.5>Vivek Kumar</font><br>
+<font size=2.5>In Cell Reports 2022 </font><br>
+<a href="https://www.cell.com/action/showPdf?pii=S2211-1247%2821%2901740-X"><img src="data/paper.png"></a> 
+<a href="https://www.kumarlab.org/2021/11/05/dataset-for-stride-level-analysis-of-mouse-open-field-behavior-using-deep-learning-based-pose-estimation/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/fdechaumont/lmt-analysis"><img src="teasers/Chaumont19.png"/></a></td>
 <td align="left" width=550><em>Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning</em><br>
 <font size=2.5>Fabrice de Chaumont</font>, 

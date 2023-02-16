@@ -198,9 +198,10 @@ def write_papers(papers, final_file=None, header_file=None, end_file=None, TYPE=
         content += '<table>'
     for paper in papers:
         content = getattr(paper, mtd_str)(content)
-        if final_file and os.path.exists(final_file):
-            with open(final_file, 'r') as ffile:
-                content += ffile.read()
+
+    if final_file and os.path.exists(final_file):
+        with open(final_file, 'r') as ffile:
+            content += ffile.read()
     if TYPE == 'md':
         content += '</table>'
 
