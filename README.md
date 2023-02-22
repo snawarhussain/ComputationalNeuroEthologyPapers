@@ -12,6 +12,17 @@ So whether you are looking to keep up with the latest research, or simply lookin
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/pdf/2203.07436.pdf"><img src="teasers/Ye2022.png"/></a></td>
+<td align="left" width=550><em>Panoptic animal pose estimators are zero-shot performers</em><br>
+<font size=2.5>Shaokai Ye1</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In arXiv 2022 </font><br>
+<a href="https://arxiv.org/pdf/2203.07436.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://www.kumarlab.org/2021/11/05/dataset-for-stride-level-analysis-of-mouse-open-field-behavior-using-deep-learning-based-pose-estimation/"><img src="teasers/Sheppard2022.jpg"/></a></td>
 <td align="left" width=550><em>Stride-level analysis of mouse open field behavior using deep-learning-based pose estimation</em><br>
 <font size=2.5>Keith Sheppard</font>, 
